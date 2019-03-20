@@ -4,7 +4,7 @@ Aplicação construída com VueJS, consumindo API REST de gerenciamento de crush
 # Requisitos
 - [NodeJS](https://nodejs.org/en/)
 - [NPM](https://nodejs.org/en/)
-- [VueJS] (https://cli.vuejs.org/)
+- [VueJS](https://cli.vuejs.org/)
 
  # Instalação
 
